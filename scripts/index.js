@@ -5,8 +5,8 @@ const canvasC = document.getElementById('c');
 const audio = document.getElementById('birthday-audio'); // Reference to the audio element
 
 const config = {
-  birthdate: 'Jun 26, 2025',
-  name: '❤Theint Nadi San❤'
+  birthdate: 'Jul 26, 2025',
+  name: '❤Noe Noe❤'
 };
 
 function hideEverything() {
